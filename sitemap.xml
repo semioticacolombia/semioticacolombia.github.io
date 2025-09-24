@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://semioticacolombia.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://semioticacolombia.github.io/</loc>
+</url>
+<url>
+<loc>https://semioticacolombia.github.io/acerca-de-la-asociacion/</loc>
+<lastmod>2025-09-23T20:00:35-05:00</lastmod>
+</url>
+<url>
+<loc>https://semioticacolombia.github.io/asociaciones-amigas/</loc>
+<lastmod>2025-09-23T20:10:48-05:00</lastmod>
+</url>
+<url>
+<loc>https://semioticacolombia.github.io/congreso-2026/</loc>
+<lastmod>2025-08-16T10:30:10-05:00</lastmod>
+</url>
+<url>
+<loc>https://semioticacolombia.github.io/congreso-mundial-2027/</loc>
+<lastmod>2025-08-16T10:34:16-05:00</lastmod>
+</url>
+<url>
+<loc>https://semioticacolombia.github.io/directorio/</loc>
+<lastmod>2025-09-23T20:00:48-05:00</lastmod>
+</url>
+<url>
+<loc>https://semioticacolombia.github.io/historia-de-la-asociacion/</loc>
+<lastmod>2025-09-23T20:13:54-05:00</lastmod>
+</url>
+<url>
+<loc>https://semioticacolombia.github.io/links-de-interes/</loc>
+<lastmod>2025-09-23T20:13:21-05:00</lastmod>
+</url>
+<url>
+<loc>https://semioticacolombia.github.io/organizacion/</loc>
+<lastmod>2025-09-23T20:02:32-05:00</lastmod>
+</url>
+<url>
+<loc>https://semioticacolombia.github.io/publicaciones/</loc>
+<lastmod>2025-09-23T20:02:51-05:00</lastmod>
+</url>
+</urlset>

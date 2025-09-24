@@ -1,1 +1,0 @@
-# semioticacolombia.github.io
