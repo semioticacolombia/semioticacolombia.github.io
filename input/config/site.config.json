@@ -211,7 +211,7 @@
             "server": "api.github.com",
             "user": "semioticacolombia",
             "repo": "semioticacolombia.github.io",
-            "branch": "main",
+            "branch": "gh-pages",
             "token": "publii-gh-token uuid-1755355309064-423417190",
             "parallelOperations": 1,
             "apiRateLimiting": 1
@@ -238,5 +238,5 @@
         }
     },
     "theme": "simple",
-    "syncDate": 1774024335038
+    "syncDate": 1777411720424
 }
