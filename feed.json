@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Red de Semiótica Colombiana",
+    "description": "",
+    "home_page_url": "https://semioticacolombia.github.io",
+    "feed_url": "https://semioticacolombia.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://semioticacolombia.github.io/media/website/LogoASC_texto.svg",
+    "author": {
+        "name": "Sergio Rodríguez Gómez"
+    },
+    "items": [
+    ]
+}
