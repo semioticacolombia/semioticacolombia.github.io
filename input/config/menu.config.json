@@ -1,0 +1,143 @@
+[
+    {
+        "name": "Menú Principal",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1755356016975,
+                "label": "Acerca",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 1,
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1758675818675,
+                        "label": "La Red",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 1,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1758675831723,
+                        "label": "Historia",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 2,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1758675848076,
+                        "label": "Organización",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 7,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1758675861744,
+                        "label": "Directorio",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 3,
+                        "cssClass": "",
+                        "isHidden": true,
+                        "items": []
+                    }
+                ]
+            },
+            {
+                "id": 1755356255356,
+                "label": "Congreso Nacional 2026",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 4,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1755357129966,
+                "label": "Congreso Mundial 2027",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 6,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1758675911174,
+                "label": "Publicaciones",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 8,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1758675987307,
+                "label": "Comunidad",
+                "title": "",
+                "type": "separator",
+                "target": "_self",
+                "rel": "",
+                "link": "",
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1758675998442,
+                        "label": "Links de interés",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 5,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1758676010459,
+                        "label": "Redes amigas",
+                        "title": "",
+                        "type": "page",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 9,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            }
+        ],
+        "maxLevels": "-1"
+    }
+]
